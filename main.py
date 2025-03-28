@@ -1,5 +1,5 @@
 # main.py
-from autogen import AssistantAgent, UserProxyAgent, config_list_from_json
+from autogen import AssistantAgent, UserProxyAgent
 from dotenv import load_dotenv
 import os
 
